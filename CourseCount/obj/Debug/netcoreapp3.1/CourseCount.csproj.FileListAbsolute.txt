@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\CourseCount\CourseCount\bin\Debug\netcoreapp3.1\CourseCount.exe
+C:\Users\juan_\source\repos\CourseCount\CourseCount\bin\Debug\netcoreapp3.1\CourseCount.deps.json
+C:\Users\juan_\source\repos\CourseCount\CourseCount\bin\Debug\netcoreapp3.1\CourseCount.runtimeconfig.json
+C:\Users\juan_\source\repos\CourseCount\CourseCount\bin\Debug\netcoreapp3.1\CourseCount.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\CourseCount\CourseCount\bin\Debug\netcoreapp3.1\CourseCount.dll
+C:\Users\juan_\source\repos\CourseCount\CourseCount\bin\Debug\netcoreapp3.1\CourseCount.pdb
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.AssemblyInfo.cs
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.dll
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.pdb
+C:\Users\juan_\source\repos\CourseCount\CourseCount\obj\Debug\netcoreapp3.1\CourseCount.genruntimeconfig.cache
